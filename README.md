@@ -1,5 +1,5 @@
 <img src="https://media.licdn.com/dms/image/v2/D5616AQF4SBNelpWcIw/profile-displaybackgroundimage-shrink_350_1400/B56Zo6b8blKwAY-/0/1761916998732?e=1764201600&v=beta&t=L2VkaPFhff1Fs25XQ99eqC3vl3WY2N1Q6Fyqm_sAR9A">
-<h3 align="center">Pro Web Designer Developer & WordPress Specialist | Assist Businesses and e-Commerce to Build Responsive Functional Websiteste.</h3>
+<h3 align="center">Pro Web Designer Developer & WordPress Specialist | Assist Businesses and e-Commerce to Build Responsive Functional Websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frelancernaim&label=Profile%20views&color=0e75b6&style=flat" alt="frelancernaim" /> </p>
 
